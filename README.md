@@ -1,13 +1,10 @@
 # HaveMore Design System
-
 **UI/UX and branding assets for HaveMore – exported from Adobe XD/Figma. Includes screens, logos, icons, and full documentation for developer handoff.**
 
 ## 📋 Overview
-
 This repository contains the complete design system and visual assets for the HaveMore project. It serves as the central hub for all design-related resources, ensuring consistency across all platforms and applications.
 
 ## ✨ Features
-
 - **Complete Asset Library**: Logos, icons, and branding elements
 - **Screen Designs**: High-fidelity mockups in multiple formats (PNG, SVG, PDF)
 - **Developer Documentation**: Detailed specifications for seamless handoff
@@ -15,7 +12,6 @@ This repository contains the complete design system and visual assets for the Ha
 - **Export-Ready Assets**: Optimized for web, mobile, and print applications
 
 ## 📁 Repository Structure
-
 ```
 havemore-design/
 ├── assets/
@@ -50,7 +46,6 @@ havemore-design/
 - **Documentation**: Markdown files with embedded images and specifications
 
 ## 📖 Documentation
-
 Detailed design specifications, component guidelines, and usage instructions are available in the `documentation/` folder. This includes:
 
 - Brand guidelines and logo usage
@@ -60,7 +55,6 @@ Detailed design specifications, component guidelines, and usage instructions are
 - Export guidelines and best practices
 
 ## 🤝 Contributing
-
 This repository is maintained by the HaveMore design team. For updates or modifications:
 
 1. Follow the established folder structure
@@ -69,19 +63,23 @@ This repository is maintained by the HaveMore design team. For updates or modifi
 4. Ensure all assets are optimized for their intended use
 
 ## 🎨 Design Tools
-
 Assets in this repository are created and maintained using:
+
 - Adobe XD (primary design tool)
 - Figma (collaborative design platform)
 - Adobe Illustrator (vector graphics)
 - Adobe Photoshop (raster graphics)
 
 ## 📄 License
-
 All assets in this repository are proprietary to HaveMore and are intended for internal use only. Unauthorized distribution or usage is prohibited.
+
+## Showcased on Behance
+
+🎨 **[View HaveMore Design System on Behance](https://www.behance.net/gallery/havemore-design)**
+
+This comprehensive design system has been showcased on Behance, featuring the complete visual identity, UI/UX designs, and branding elements for the HaveMore project. The Behance project highlights the design process, from initial concepts to final implementation, demonstrating modern design principles and user-centered approach in creating a cohesive digital experience.
 
 ---
 
 **Maintained by the HaveMore Design Team**
-
-*For questions or requests, please contact the design team or create an issue in this repository.*
+For questions or requests, please contact the design team or create an issue in this repository.
