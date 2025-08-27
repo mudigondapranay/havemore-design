@@ -47,20 +47,13 @@ It serves as the home for all high-fidelity assets, component guidelines, and vi
 
 havemore-design/
 ├── assets/
-│ ├── logos/ # Brand logo files (PNG, SVG, PDF)
-│ └── icons/ # Custom icon sets and individual SVGs
+│ ├── logos/
+│ └── icons/
 ├── screens/
-│ ├── onboarding/ # Splash, login, signup, and auth screens
-│ ├── menu/ # Food/category pages, product UI
-│ └── cart-checkout/ # Cart, order summary, and checkout flows
-├── exports/
-│ ├── png/ # Exported PNGs for rapid prototyping
-│ ├── svg/ # Exported vector SVGs for web/app
-│ └── pdf/ # Print-ready and documentation files
+│ ├── png/
+│ ├── svg/
+│ └── pdf/
 ├── documentation/
-│ ├── specs.md # Developer-focused design/system guidelines
-│ ├── colors.md # Color palette, gradients, and code refs
-│ └── typography.md # Fonts, type scale, font-weight rules
 └── README.md
 ---
 
