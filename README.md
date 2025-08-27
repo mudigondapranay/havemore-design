@@ -46,15 +46,12 @@ It serves as the home for all high-fidelity assets, component guidelines, and vi
 ## 📁 Repository Structure
 
 havemore-design/
-├── assets/
-│ ├── logos/
-│ └── icons/
-├── screens/
-│ ├── png/
-│ ├── svg/
-│ └── pdf/
-├── documentation/
+├── assets/ # Logos and icons
+├── screens/ # App and website UI screens
+├── exports/ # PNG, SVG, PDF assets
+├── documentation/ # Design specs and style guide
 └── README.md
+
 ---
 
 ## 🌐 Showcased On
