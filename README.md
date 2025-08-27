@@ -45,3 +45,58 @@ It serves as the home for all high-fidelity assets, component guidelines, and vi
 
 ## 📁 Repository Structure
 
+havemore-design/
+├── assets/
+│ ├── logos/
+│ └── icons/
+├── screens/
+│ ├── png/
+│ ├── svg/
+│ └── pdf/
+├── documentation/
+└── README.md
+
+
+- **Logos:** PNG, SVG, and PDF
+- **Icons:** SVG and sets
+- **Screens:** Raster/vector/print formats (Hi‑fi mockups)
+- **Docs:** Specs, color palettes, type, spacing, interaction patterns
+
+---
+
+## 🌐 Showcased On
+
+**[Behance Project – HaveMore Design System](https://www.behance.net/pranaykumar23)**  
+Complete feature tour, process breakdown, and live UI interactions.
+
+---
+
+## 👤 Author
+
+[Pranay Kumar](https://github.com/mudigondapranay)  
+[Behance Portfolio](https://www.behance.net/pranaykumar23)  
+[LinkedIn](https://www.linkedin.com/in/mudigondapranay/)
+
+---
+
+## 🤝 Contributing
+
+HaveMore design is maintained by the design team and open to collaboration—  
+- Please follow repo structure and commit conventions
+- Update documentation on each significant asset or UX flow change
+- Fork and PR to submit improvements!
+
+---
+
+## ⚡ License
+
+All assets proprietary to HaveMore.  
+Intended for official, internal, or licensed use only. Please request permission for external projects.
+
+---
+
+> _Delighting users, one modern meal at a time—through design and experience._
+
+
+
+
