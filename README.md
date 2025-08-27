@@ -56,7 +56,6 @@ havemore-design/
 ├── documentation/
 └── README.md
 
-
 - **Logos:** PNG, SVG, and PDF
 - **Icons:** SVG and sets
 - **Screens:** Raster/vector/print formats (Hi‑fi mockups)
